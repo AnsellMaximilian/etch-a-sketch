@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+#container{
+    width: 510px;
+    height: 510px;
+    border: 1px black solid;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+/* .grid-square{
+    height: 33.333333%;
+    width: 33.3333333%;
+} */
+
+#color{
+    padding: 0;
+}
+
+#buttons{
+    position: absolute;
+    right: 15vw;
+    top: 200px;
+}
+
+#clear{
+    width: 510px;
+}
